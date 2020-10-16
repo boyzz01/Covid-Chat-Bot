@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Covid Chat Bot</string>
+    <string name="ask_your_question">Ask Your Question</string>
+    <string name="covid_chat_bot">Covid Chat Bot</string>
+    <string name="bot_is_online">Bot is Online</string>
+    <string name="about_covid_19">About Covid 19</string>
+    <string name="preventive_measures">Preventive Measures</string>
+    <string name="myths">Myths</string>
+    <string name="chat_query">Chat Query</string>
+</resources>
